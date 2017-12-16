@@ -1,0 +1,11 @@
+D:\Kaynak Kodlar\ResimAltyazıEkleme\ResimAltYazi\ResimAltYazi\bin\Debug\ResimAltYazi.exe.config
+D:\Kaynak Kodlar\ResimAltyazıEkleme\ResimAltYazi\ResimAltYazi\bin\Debug\ResimAltYazi.exe
+D:\Kaynak Kodlar\ResimAltyazıEkleme\ResimAltYazi\ResimAltYazi\bin\Debug\ResimAltYazi.pdb
+D:\Kaynak Kodlar\ResimAltyazıEkleme\ResimAltYazi\ResimAltYazi\obj\Debug\ResimAltYazi.csprojResolveAssemblyReference.cache
+D:\Kaynak Kodlar\ResimAltyazıEkleme\ResimAltYazi\ResimAltYazi\obj\Debug\ResimAltYazi.Form1.resources
+D:\Kaynak Kodlar\ResimAltyazıEkleme\ResimAltYazi\ResimAltYazi\obj\Debug\ResimAltYazi.Properties.Resources.resources
+D:\Kaynak Kodlar\ResimAltyazıEkleme\ResimAltYazi\ResimAltYazi\obj\Debug\ResimAltYazi.csproj.GenerateResource.Cache
+D:\Kaynak Kodlar\ResimAltyazıEkleme\ResimAltYazi\ResimAltYazi\obj\Debug\ResimAltYazi.exe
+D:\Kaynak Kodlar\ResimAltyazıEkleme\ResimAltYazi\ResimAltYazi\obj\Debug\ResimAltYazi.pdb
+D:\Kaynak Kodlar\ResimAltyazıEkleme\ResimAltYazi\ResimAltYazi\bin\Debug\AddImage.exe.config
+D:\Kaynak Kodlar\ResimAltyazıEkleme\ResimAltYazi\ResimAltYazi\bin\Debug\AddCaptionImage.exe.config
